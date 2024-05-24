@@ -1,0 +1,5 @@
+1 Osama +967711379934 somewhre 10000 surjuant 8 14
+2 Ahmed +967711379935 somewhre 20000 nurse 8 15
+3 Almuhanad +967711379936 somewhre 30000 pharmacist 8 16
+4 Tameem +967711379937 somewhre 40000 lab 8 17
+
